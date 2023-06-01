@@ -56,17 +56,6 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368
 
   git clone https://github.com/dldyou2/opensw23-E1I3.git
   pip install -r requirements.txt
-  pip install ffmpeg-python
-  pip install PyYAML==5.3.1
-
-  pip install torch
-  pip install torchvision
-
-  pip3 install -U scikit-learn
-  pip install ffmpeg
-  pip install pandas
-  pip install matplotlib
-  pip install imageio-ffmpeg
 
 </code>
 </pre>
