@@ -11,10 +11,10 @@
 
 # Topic Introduction
 
-- Topic : Facial expression deepfake 기술에 적절한 타켓 이미지 유형 분석<br/>
+### - Topic : Facial expression deepfake 기술에 적절한 타켓 이미지 유형 분석<br/>
 Facial Expression deepfake 기술이란, 타겟 이미지의 대상을 소스 비디오 대상의 표정을 묘사하도록 만드는 기술입니다.
 
-- 분석 기준
+### - 분석 기준
 1. 대상
    - 대상의 종류 : 사람 뿐 아니라 이목구비를 가진 강아지, 고양이, 새 등에도 적용되는가.
    - 대상의 수 : 한 화면에 대상의 수가 많아도, 모든 대상의 얼굴에 기술이 적용되는가.
