@@ -49,6 +49,7 @@ code editor : visual studio code
 [설치]
 1. 깃허브 주소 및 초기 설정
 first-order-model repository를 clone한 뒤, 필요한 python 모듈을 다운합니다. 가상 환경 활성화 후 실행을 권장합니다. 
+'''
   git clone https://github.com/AliaksandrSiarohin/first-order-model.git
   pip install -r requirements.txt
   pip install ffmpeg-python
@@ -62,7 +63,7 @@ first-order-model repository를 clone한 뒤, 필요한 python 모듈을 다운�
   pip install pandas
   pip install matplotlib
   pip install imageio-ffmpeg
-
+'''
 2. YAML configs 확인
 first-order-model 중에서도 이용하는 주제에 따라 사용해야하는 yaml파일이 달라집니다.
   > ... 용도의 yaml, ... 용도의 yaml 파일이 있습니다. 
