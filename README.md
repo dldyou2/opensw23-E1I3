@@ -62,21 +62,17 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368
 2. (권장) 가상 환경 구성
    안전한 개발 환경 구축을 위해 가상 환경을 구성합니다. 아래 코드를 cmd에서 작성해주세요.
    '''
-   
    python -m venv .venv
    call .venv/Scripts/activate -> Scripts 가 아니라 bin으로 되어 있는 경우도 있음 (주의)
    
    해당 가상 환경에 라이브러리를 설치해줍니다.
    pip install -r requirements.txt
-   
    '''
    
 3. YAML configs 확인
 
-   first-order-model 중에서도 이용하는 주제에 따라 사용해야하는 yaml파일이 달라집니다.  
+   E1I3에서 초기에 clone한 first-order-model 에서는 여러가지의 기능 구현을 위해 다양한 yaml파일이 존재합니다. 하지만, 그중에서도 Facial Expression deepfake을 구현하고자 하기에 **vox-256.yaml** 파일을 사용합니다. 모든 yaml파일은 .\config 에서 확인할 수 있습니다.
    ![YamlListImg](https://github.com/dldyou2/opensw23-E1I3/blob/f8717260b81905717e92017534bc65b13ce9780d/yamlListImg.png)
-
-   E1I3에서는 Facial Expression Deepfake을 구동하기에 **vox-256.yaml** 파일을 사용합니다. 모든 yaml파일은 .\config 에서 확인할 수 있습니다.
 
 4. tar 파일 다운로드
 
