@@ -30,15 +30,13 @@
 
 # Results
 
-<<<<<<< HEAD
-
-=======
-input
+- input
 
 ![face1](https://github.com/dldyou2/opensw23-E1I3/assets/76515856/e67187ef-fb41-48c5-9770-c89ac91fe319)
 ![movie](https://github.com/dldyou2/opensw23-E1I3/assets/76515856/72d54b9f-8ae6-4bdc-aaa2-2e31eeb4ceab)
 
-output
+- output
+
 ![result](https://github.com/dldyou2/opensw23-E1I3/assets/76515856/fa7893d7-46bf-436b-adac-46b33d556fe0)
 
 # Analysis/Visualization
@@ -51,36 +49,15 @@ output
 - python 버전: python3.10.9
 - code editor : visual studio code
 
-<<<<<<< HEAD
-[깃허브 주소 및 초기 모듈 설정]
-git clone https://github.com/AliaksandrSiarohin/first-order-model.git
-pip install -r requirements.txt
-pip install ffmpeg-python
-pip install PyYAML==5.3.1
-pip install torch
-pip install torchvision
-pip3 install -U scikit-learn
-pip install ffmpeg
-pip install pandas
-pip install matplotlib
-pip install imageio-ffmpeg
-
-[YAML configs 확인]
-first-order-model 중에서도 이용하는 주제에 따라 사용해야하는 yaml파일이 달라짐
-![YamlListImg][./image/yamlListImg.png]
-E1I3에서는 Facial Expression을 구동하기에 dataset중에서도 vox-256.yaml 파일을 config파일로 지정함
-
-# [pretrained data(tar파일) 다운로드]
-
 ### [설치]
 
 1. 깃허브 주소 및 초기 설정
-   first-order-model repository를 clone한 뒤, 필요한 python 모듈을 다운합니다. 가상 환경 활성화 후 실행을 권장합니다. 이하 clone한 폴더를 최상위 폴더라고 지칭합니다.
+   opensw23-E1I3 repository를 clone한 뒤, 필요한 python 모듈을 다운합니다. 가상 환경 활성화 후 실행을 권장합니다. 이하 clone한 폴더를 최상위 폴더라고 지칭합니다.
 
 <pre>
 <code>
 
-  git clone https://github.com/AliaksandrSiarohin/first-order-model.git
+  git clone https://github.com/dldyou2/opensw23-E1I3.git
   pip install -r requirements.txt
   pip install ffmpeg-python
   pip install PyYAML==5.3.1
@@ -93,48 +70,42 @@ E1I3에서는 Facial Expression을 구동하기에 dataset중에서도 vox-256.y
   pip install pandas
   pip install matplotlib
   pip install imageio-ffmpeg
+
 </code>
 </pre>
 
 2. YAML configs 확인
-   first-order-model 중에서도 이용하는 주제에 따라 사용해야하는 yaml파일이 달라집니다.
+   first-order-model 중에서도 이용하는 주제에 따라 사용해야하는 yaml파일이 달라집니다.  
+   ![YamlListImg](https://github.com/dldyou2/opensw23-E1I3/blob/f8717260b81905717e92017534bc65b13ce9780d/yamlListImg.png)
+
    E1I3에서는 Facial Expression을 구동하기에 **vox-256.yaml** 파일을 사용합니다. 모든 yaml파일은 .\config 에서 확인할 수 있습니다.
 
 3. tar 파일 다운로드
    아래 링크에서 pretrained data인 tar파일을 다운로드합니다.
-   > > > > > > > 7b508302d98dd714cae405657fb868abe2f1278b
-   > > > > > > > https://drive.google.com/drive/folders/1PyQJmkdCsAkOYwUyaj_l-l0as-iLDgeH (vox-cpk.pth.tar 다운로드 받기)
-   > > > > > > > 다운로드한 tar 파일은 최상위 폴더에 저장합니다.
+   https://drive.google.com/drive/folders/1PyQJmkdCsAkOYwUyaj_l-l0as-iLDgeH (vox-cpk.pth.tar 다운로드 받기)
+   다운로드한 tar 파일은 최상위 폴더에 저장합니다.
 
-<<<<<<< HEAD
-[dataSet 설정]
-소스 이미지와 기반이 될 비디오 파일을 적용하기 위하여
-클론한 최상위 폴더에 dataSet이라는 이름의 폴더를 만들고 그 안에 사용할 png, mp4 선정하여 저장
+4. Data Set 수집
+   소스 이미지와 기반이 될 비디오 파일을 수집합니다.
+   원활한 파일 관리를 위하여 클론한 최상위 폴더에 dataSet이라는 이름의 폴더를 만들고 그 안에 사용할 png, mp4 선정하여 저장합니다.  
+   추가적으로 소스파일이 필요한 경우 아래 링크에서 다운로드 가능합니다.  
+   https://drive.google.com/drive/folders/1TIjufuJdPgkzvCQ3G1mICQZVCxWbCOFX
 
-[명령어 수정]
-repository 권장 기본 입력코드 ->
-python demo.py --config config/dataset_name.yaml --driving_video path/to/driving --source_image path/to/source --checkpoint path/to/checkpoint --relative --adapt_scale
-
-Day2 초기 result를 얻기 위한 입력코드 ->
-python demo.py --config .\config\bair-256.yaml --driving_video dataSet\04.mp4 --source_image dataSet\01.png --checkpoint .\bair-cpk.pth.tar --relative --adapt_scale --cpu
-
-기존 명령어 뒤에 —cpu를 추가해야함. >> 아래의 오류를 —cpu로 해결함
-![errorImg][./image/errorImg.png]
-—cpu : GPU가 NVIDIA가 아닌 경우 필요.
-======= 5. Data Set 수집
-소스 이미지와 기반이 될 비디오 파일을 수집합니다. 아래 링크에서 다운로드 가능합니다. (url)
-원활한 파일 관리를 위하여 클론한 최상위 폴더에 dataSet이라는 이름의 폴더를 만들고 그 안에 사용할 png, mp4 선정하여 저장
-
-6. 명령어
-terminal에서 아래의 명령어를 전달합니다.
-<pre>
-<code>
-python demo.py  --config .\config\bair-256.yaml --driving_video dataSet\04.mp4 --source_image dataSet\01.png --checkpoint .\bair-cpk.pth.tar --relative --adapt_scale
-</code>
-</pre>
+5. 명령어
+   terminal에서 아래의 명령어를 전달합니다.
+   <pre>
+   <code>
+   python demo.py --config .\config\vox-256.yaml --driving_video dataSet\04.mp4 --source_image dataSet\01.png --checkpoint .\vox-cpk.pth.tar --relative --adapt_scale --cpu
+   </code>
+   </pre>
 
 전달한 argument들의 의미는 아래와 같습니다. 사용 목적에 따라 변경하여 사용합니다.
 
-> > > > > > > 7b508302d98dd714cae405657fb868abe2f1278b
+- --config : 적용할 yaml파일 주소
+- --source_image : 소스 이미지 파일 주소
+- --driving_video : 소스 동영상 파일 주소
+- --checkpoint : pretrained data인 tar파일 주소
+- --cpu : GPU 미사용시 호출하는 명령어 ( 아래 사진의 오류 발생 시 해결가능 )  
+  ![ErrorImg](https://github.com/dldyou2/opensw23-E1I3/blob/f8717260b81905717e92017534bc65b13ce9780d/errorImg.png)
 
 # Presentation
