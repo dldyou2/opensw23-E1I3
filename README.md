@@ -44,34 +44,40 @@ output
 [테스트 환경]
 OS : window
 python 버전: python3.10.9
+code editor : visual studio code
 
-깃허브 주소 및 초기 설정
-git clone https://github.com/AliaksandrSiarohin/first-order-model.git
-pip install -r requirements.txt
-pip install ffmpeg-python
-pip install PyYAML==5.3.1
+[설치]
+1. 깃허브 주소 및 초기 설정
+first-order-model repository를 clone한 뒤, 필요한 python 모듈을 다운합니다. 가상 환경 활성화 후 실행을 권장합니다. 
+  git clone https://github.com/AliaksandrSiarohin/first-order-model.git
+  pip install -r requirements.txt
+  pip install ffmpeg-python
+  pip install PyYAML==5.3.1
 
-pip install torch
-pip install torchvision
+  pip install torch
+  pip install torchvision
 
-pip3 install -U scikit-learn
-pip install ffmpeg
-pip install pandas
-pip install matplotlib
-pip install imageio-ffmpeg
+  pip3 install -U scikit-learn
+  pip install ffmpeg
+  pip install pandas
+  pip install matplotlib
+  pip install imageio-ffmpeg
 
-YAML configs 확인
+2. YAML configs 확인
+first-order-model 중에서도 이용하는 주제에 따라 사용해야하는 yaml파일이 달라집니다.
+  > ... 용도의 yaml, ... 용도의 yaml 파일이 있습니다. 
+E1I3에서는 Facial Expression을 구동하기에 dataset중에서도 **vox-256.yaml** 파일을 config파일로 지정합니다. (--config .\config\vox-256.yaml)
 
-first-order-model 중에서도 이용하는 주제에 따라 사용해야하는 yaml파일이 달라짐
-
-E1I3에서는 Facial Expression을 구동하기에 dataset중에서도 vox-256.yaml 파일을 config파일로 지정함
-
+3. 
 https://drive.google.com/drive/folders/1PyQJmkdCsAkOYwUyaj_l-l0as-iLDgeH (vox-cpk.pth.tar 다운로드 받기)
 위 링크에서 pretrained data인 tar파일을 다운로드 하여 이용함
 
+4. Data Set 수집
 소스 이미지와 기반이 될 비디오 파일을 적용하기 위하여
 클론한 최상위 폴더에 dataSet이라는 이름의 폴더를 만들고 그 안에 사용할 png, mp4 선정하여 저장
 
-https://drive.google.com/drive/folders/1PyQJmkdCsAkOYwUyaj_l-l0as-iLDgeH (vox-cpk.pth.tar 다운로드 받기)
+5. 명령어 
+전달 가능한 argument로는 --- 이 있습니다. 
+
 
 # Presentation
