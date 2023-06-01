@@ -52,6 +52,7 @@
 ### [설치]
 
 1. 깃허브 주소 및 초기 설정
+
    opensw23-E1I3 repository를 clone한 뒤, 필요한 python 모듈을 다운합니다. 가상 환경 활성화 후 실행을 권장합니다. 이하 clone한 폴더를 최상위 폴더라고 지칭합니다.
 
 <pre>
@@ -75,23 +76,27 @@
 </pre>
 
 2. YAML configs 확인
+
    first-order-model 중에서도 이용하는 주제에 따라 사용해야하는 yaml파일이 달라집니다.  
    ![YamlListImg](https://github.com/dldyou2/opensw23-E1I3/blob/f8717260b81905717e92017534bc65b13ce9780d/yamlListImg.png)
 
    E1I3에서는 Facial Expression을 구동하기에 **vox-256.yaml** 파일을 사용합니다. 모든 yaml파일은 .\config 에서 확인할 수 있습니다.
 
 3. tar 파일 다운로드
+
    아래 링크에서 pretrained data인 tar파일을 다운로드합니다.
    https://drive.google.com/drive/folders/1PyQJmkdCsAkOYwUyaj_l-l0as-iLDgeH (vox-cpk.pth.tar 다운로드 받기)
    다운로드한 tar 파일은 최상위 폴더에 저장합니다.
 
 4. Data Set 수집
+
    소스 이미지와 기반이 될 비디오 파일을 수집합니다.
    원활한 파일 관리를 위하여 클론한 최상위 폴더에 dataSet이라는 이름의 폴더를 만들고 그 안에 사용할 png, mp4 선정하여 저장합니다.  
    추가적으로 소스파일이 필요한 경우 아래 링크에서 다운로드 가능합니다.  
    https://drive.google.com/drive/folders/1TIjufuJdPgkzvCQ3G1mICQZVCxWbCOFX
 
 5. 명령어
+
    terminal에서 아래의 명령어를 전달합니다.
    <pre>
    <code>
