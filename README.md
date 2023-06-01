@@ -105,6 +105,6 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368
 
 6. result 파일
 
-만들어진 동영상은 argument를 따로 전달하지 않을 시 최상위 폴더에 생성되며, 명령어에 --result_video ./dataSet/result.mp4 를 추가하여 인자를 전달 시 생성될 파일위치 지정 및 이름 설정이 가능합니다.
+만들어진 동영상은 argument를 따로 전달하지 않을 시 최상위 폴더에 `result.mp4` 파일이 생성되며, 명령어에 --result_video ./dataSet/result.mp4 를 추가하여 인자를 전달 시 생성될 파일위치 지정 및 이름 설정이 가능합니다. 
 
 # Presentation
