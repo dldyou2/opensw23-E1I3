@@ -12,6 +12,7 @@
 # Topic Introduction
 
 # Results
+![result](https://github.com/dldyou2/opensw23-E1I3/assets/76515856/fa7893d7-46bf-436b-adac-46b33d556fe0)
 
 # Analysis/Visualization
 
