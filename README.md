@@ -29,11 +29,11 @@ Facial Expression deepfake 기술이란, 타겟 이미지의 대상을 소스 �
 
 ![face](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/51d424c2-2637-427a-8574-ae64778ac555)
 
-![movie](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/fef9b4f3-bd34-4d94-91a8-8eb4d8d4eb4d)
+[![movie](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/fef9b4f3-bd34-4d94-91a8-8eb4d8d4eb4d)]
 
 - output
 
-![result](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368-e70adb69c002)
+[![result](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368-e70adb69c002)]
 
 # Analysis/Visualization
 
