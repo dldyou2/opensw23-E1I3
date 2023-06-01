@@ -88,9 +88,8 @@ terminal에서 아래의 명령어를 전달합니다.
 <code>
 python demo.py  --config .\config\bair-256.yaml --driving_video dataSet\04.mp4 --source_image dataSet\01.png --checkpoint .\bair-cpk.pth.tar --relative --adapt_scale
 </code>
-<pre>
+</pre>
+
 전달한 argument들의 의미는 아래와 같습니다. 사용 목적에 따라 변경하여 사용합니다. 
-
-
 
 # Presentation
