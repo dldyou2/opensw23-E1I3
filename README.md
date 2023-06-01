@@ -11,21 +11,21 @@
 
 # Topic Introduction
 
-- Topic : facial expression 기술에 적절한 타켓 이미지 유형 분석
-  Facial Expression 기술이란, 타겟 이미지의 대상을 소스 비디오 대상의 표정을 묘사하도록 만드는 기술이다.
+- Topic : Facial expression deepfake 기술에 적절한 타켓 이미지 유형 분석
+  Facial Expression deepfake 기술이란, 타겟 이미지의 대상을 소스 비디오 대상의 표정을 묘사하도록 만드는 기술입니다.
 - 분석 기준
 
 1. 대상
-   - 대상의 종류
+   - 대상의 종류 :
      사람 뿐 아니라 이목구비를 가진 강아지, 고양이, 새 등에도 적용되는가.
-   - 대상의 수
+   - 대상의 수 :
      한 화면에 대상의 수가 많아도, 모든 대상의 얼굴에 기술이 적용되는가.
-   - 이목구비 가림 정도
-     이목구비를 가려도 적용되는가.
+   - 이목구비 가림 정도 : 
+     눈, 코, 입과 같은 부분을 가려도 기술이 적용되는가.
 2. 이미지 조건
-   - 채도
+   - 채도 : 
      이목구비를 인식하는 데, 채도가 영향을 미치는가.
-   - 방향
+   - 방향 : 
      대상이 회전되어 있어도, 이목구비를 잘 인식하는가.
 
 # Results
@@ -80,7 +80,7 @@
    first-order-model 중에서도 이용하는 주제에 따라 사용해야하는 yaml파일이 달라집니다.  
    ![YamlListImg](https://github.com/dldyou2/opensw23-E1I3/blob/f8717260b81905717e92017534bc65b13ce9780d/yamlListImg.png)
 
-   E1I3에서는 Facial Expression을 구동하기에 **vox-256.yaml** 파일을 사용합니다. 모든 yaml파일은 .\config 에서 확인할 수 있습니다.
+   E1I3에서는 Facial Expression Deepfake을 구동하기에 **vox-256.yaml** 파일을 사용합니다. 모든 yaml파일은 .\config 에서 확인할 수 있습니다.
 
 3. tar 파일 다운로드
 
