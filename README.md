@@ -62,11 +62,13 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368
 2. (권장) 가상 환경 구성
    안전한 개발 환경 구축을 위해 가상 환경을 구성합니다. 아래 코드를 cmd에서 작성해주세요.
    '''
+   
    python -m venv .venv
    call .venv/Scripts/activate -> Scripts 가 아니라 bin으로 되어 있는 경우도 있음 (주의)
    
    해당 가상 환경에 라이브러리를 설치해줍니다.
    pip install -r requirements.txt
+   
    '''
    
 3. YAML configs 확인
