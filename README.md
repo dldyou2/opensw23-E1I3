@@ -113,4 +113,8 @@
 - --cpu : GPU 미사용시 호출하는 명령어 ( 아래 사진의 오류 발생 시 해결가능 )  
   ![ErrorImg](https://github.com/dldyou2/opensw23-E1I3/blob/f8717260b81905717e92017534bc65b13ce9780d/errorImg.png)
 
+6. result 파일
+
+만들어진 동영상은 argument를 따로 전달하지 않을 시 최상위 폴더에 생성되며, 명령어에 --result_video ./dataSet/result.mp4 를 추가하여 인자를 전달 시 생성될 파일위치 지정 및 이름 설정이 가능합니다.
+
 # Presentation
