@@ -54,7 +54,6 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368
 <code>
 
   git clone https://github.com/dldyou2/opensw23-E1I3.git
-  pip install -r requirements.txt
 
 </code>
 </pre>
@@ -65,8 +64,10 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368
    '''
    python -m venv .venv
    call .venv/Scripts/activate -> Scripts 가 아니라 bin으로 되어 있는 경우도 있음 (주의)
+   
+   해당 가상 환경에 라이브러리를 설치해줍니다.
+   pip install -r requirements.txt
    '''
-   아래와 같
    
 3. YAML configs 확인
 
