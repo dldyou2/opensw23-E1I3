@@ -50,13 +50,9 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368
 1. 깃허브 주소 및 초기 설정
    opensw23-E1I3 repository를 clone한 뒤, 필요한 python 모듈을 다운합니다. 가상 환경 활성화 후 실행을 권장합니다. 이하 clone한 폴더를 최상위 폴더라고 지칭합니다.
 
-<pre>
-<code>
-
-  git clone https://github.com/dldyou2/opensw23-E1I3.git
-
-</code>
-</pre>
+   ```
+   git clone https://github.com/dldyou2/opensw23-E1I3.git
+   ```
 
 
 2. (권장) 가상 환경 구성
@@ -73,6 +69,7 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368
 3. YAML configs 확인
 
    E1I3에서 초기에 clone한 first-order-model 에서는 여러가지의 기능 구현을 위해 다양한 yaml파일이 존재합니다. 하지만, 그중에서도 Facial Expression deepfake을 구현하고자 하기에 **vox-256.yaml** 파일을 사용합니다. 모든 yaml파일은 .\config 에서 확인할 수 있습니다.
+   
    ![YamlListImg](https://github.com/dldyou2/opensw23-E1I3/blob/f8717260b81905717e92017534bc65b13ce9780d/yamlListImg.png)
 
 4. tar 파일 다운로드
