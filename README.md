@@ -28,6 +28,14 @@
       대상이 회전되어 있어도, 이목구비를 잘 인식하는가.
       
 # Results
+input
+![face1](https://github.com/dldyou2/opensw23-E1I3/assets/76515856/e67187ef-fb41-48c5-9770-c89ac91fe319)
+https://github.com/dldyou2/opensw23-E1I3/assets/76515856/8188a261-2123-4e58-b515-4e7d4c5a67c8
+
+
+
+
+output
 ![result](https://github.com/dldyou2/opensw23-E1I3/assets/76515856/fa7893d7-46bf-436b-adac-46b33d556fe0)
 
 # Analysis/Visualization
