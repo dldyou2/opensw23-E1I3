@@ -90,7 +90,7 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368
    terminal에서 아래의 명령어를 전달합니다.
    <pre>
    <code>
-   python demo.py --config .\config\vox-256.yaml --driving_video dataSet\04.mp4 --source_image dataSet\01.png --checkpoint .\vox-cpk.pth.tar --relative --adapt_scale --cpu
+   python demo.py --config ./config/vox-256.yaml --driving_video dataSet/04.mp4 --source_image dataSet/01.png --checkpoint ./vox-cpk.pth.tar --relative --adapt_scale --cpu
    </code>
    </pre>
 
