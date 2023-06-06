@@ -165,8 +165,8 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368
       - anaconda prompt를 실행합니다. base에서 실행을 할 예정이기에 `conda clean -a` 명령어로 기존에 다운 받았던 패키지들을 초기화 시켜주는 작업부터 진행합니다. 
       - visual studio code에 들어가서 demo.py 파일을 열어줍니다.
       - 우측 하단의 파이썬 인터프리터를 anaconda base로 설정해줍니다. 파이썬 버전이 다르다면 anaconda navigation에서 environment 에서 base를 클릭 후 우측에서 파이썬 버전을 바꾸어줍니다.
-      - 좌측 상단에서 새 터미널을 열어줍니다..
-      - 해당 터미널을 열어주었다면 해당 가상환경으로 진행이 가능합니다..
+      - 좌측 상단에서 새 터미널을 열어줍니다.
+      - 해당 터미널을 열어주었다면 해당 가상환경으로 진행이 가능합니다.
      
    `pip install -r requirements.txt` 명령어를 통해 해당 가상 환경에 라이브러리를 설치해줍니다.
 3. YAML configs 확인
