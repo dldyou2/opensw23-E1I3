@@ -31,15 +31,18 @@
 
 # Results
 
+원본이미지의 초기이미지와 가장 비슷한 구성의 사람 얼굴 이미지로 도출한 결과이다.
+가장 자연스러운 출력을 보여주었기에 아래의 Analysis 및 Visualization에서 기준으로 삼았다.
+
 - input
 
-<img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/51d424c2-2637-427a-8574-ae64778ac555" width="250px" height="250px">
+<img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/6db3f7fd-a596-4a32-9b65-49623754519b" width="250px" height="250px">
 
-https://github.com/dldyou2/opensw23-E1I3/assets/60469410/fef9b4f3-bd34-4d94-91a8-8eb4d8d4eb4d
+https://github.com/dldyou2/opensw23-E1I3/assets/60469410/6620078d-d2ba-48dc-a1e9-d411bfcdbe1e
 
 - output
 
-https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368-e70adb69c002
+https://github.com/dldyou2/opensw23-E1I3/assets/60469410/7c8a9026-1d59-43a5-88b8-876d1a4f93a6
 
 # Analysis/Visualization
 
