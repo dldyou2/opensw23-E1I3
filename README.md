@@ -38,7 +38,7 @@
 
 <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/6db3f7fd-a596-4a32-9b65-49623754519b" width="250px" height="250px">
 
-https://github.com/dldyou2/opensw23-E1I3/assets/60469410/6620078d-d2ba-48dc-a1e9-d411bfcdbe1e
+https://github.com/dldyou2/opensw23-E1I3/assets/60469410/865d36b2-5d2d-4806-85b7-c597c53bb875
 
 - output
 
