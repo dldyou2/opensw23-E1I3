@@ -65,7 +65,9 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368
    `pip install -r requirements.txt` 명령어를 통해 해당 가상 환경에 라이브러리를 설치해줍니다.
 3. YAML configs 확인
    E1I3에서 초기에 clone한 first-order-model 에서는 여러가지의 기능 구현을 위해 다양한 yaml파일이 존재합니다. 하지만, 그중에서도 Facial Expression deepfake을 구현하고자 하기에 **vox-256.yaml** 파일을 사용합니다. 모든 yaml파일은 ./config 에서 확인할 수 있습니다.
+   
    ![YamlListImg](https://github.com/dldyou2/opensw23-E1I3/blob/f8717260b81905717e92017534bc65b13ce9780d/yamlListImg.png)
+   
 4. tar 파일 다운로드
    아래 링크에서 pretrained data인 tar파일을 `root` 폴더 아래에 다운로드합니다.
    https://drive.google.com/drive/folders/1PyQJmkdCsAkOYwUyaj_l-l0as-iLDgeH (`vox-cpk.pth.tar` 다운로드 받기)
