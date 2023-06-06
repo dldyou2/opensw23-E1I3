@@ -52,72 +52,120 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368
 ### 1. 대상체의 크기에 따라 적용을 했을 때
 ---
 - 이목구비만 보이게 확대한 이미지
-   - `1-1.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/cf84f91f-cef0-4b89-b6ea-c3a7a1c0727a" width="250px" height="250px">
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/459457f3-7fea-4c5a-aafd-6b8aa5558599
+   
       - 눈의 일부만 인식한 것처럼 보이며, 입의 경우 입 전체가 아닌 일부를 인식하여 입술 전체가 아닌 일부만 움직이는 모습을 보였다. 이목구비만 확대한 사진이었기에 머리의 움직임이 아닌 얼굴 내부 윤곽의 움직임을 보여주었다.
  - 원본보다 큰 이미지
-   - `1-2.mp4` 
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/37e9fe15-f9cd-45a3-a3ad-b53aa66f12d0" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/6002394c-a992-4454-acb6-07118e02ee33
+
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
  - 원본과 크기가 같은 이미지
-   - `1-3.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/5f600dac-8d4b-4ccd-bcfd-9400a398f95a" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/4b939934-cd9c-4c66-a4f6-e6c591ec5a26
+
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
  - 원본보다 작은 이미지
-   - `1-4.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/c52b88f1-5eae-43d0-a4f7-94f721721db0" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/e59cd6dc-81a0-4c0f-9cc6-63ce5ea34bc6
+
       - 눈의 경계선은 인식하였으나, 눈동자가 자연스럽게 움직이지 않고 입의 경우 경계선 인식이 확실하게 이뤄지지 않았다. 치아 생성은 이뤄지지만 입이 확실하게 인식되지 못한 탓에 흐리게 생성된다. 전체 윤곽의 경우 돌려지는 느낌이 아닌 비율이 찌그러지는 느낌으로 영상이 생성됨.
       
  - 원본보다 매우 작은 이미지
-   - `1-5.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/581a47e4-0e76-443a-aea0-22c8da1de717" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/0aa899a5-6700-44d1-ba0c-1956e2f4e186
+
       - 눈을 배경의 일부로 인식한 것으로 보이고, 눈동자의 움직임이 없다. 입의 경우 경계선 인식 자체를 하지 못하였으며 턱을 입술의 일부로 인식한듯한 결과를 도출하였다. 전체 윤곽 또한 1-3보다 더 부자연스러운 모습을 보였다.
       
 ---
 ### 2. 대상체의 위치에 따라 적용을 했을 때
 ---
 - 중앙에 위치한 이미지
-   - `2-1.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/ae7b3e33-6a50-46d4-83d7-2a8123b225bf" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/c04ab952-f1cd-4f89-9236-5a7674c59155
+   
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
 - 좌측에 위치한 이미지
-   - `2-2.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/daa0eb42-0ca3-43b9-9cb6-31e7f01304c1" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/9e87eccd-6b88-4e6e-baf2-cfb763309c4d
+
       - 눈과 입의 경계선을 확실하게 인식하나, 공간의 부족으로 왼쪽으로 고개가 이동 시 가장자리의 이미지가 찌그러지는 모습을 보임, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
 - 우측에 위치한 이미지
-   - `2-3.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b299c67d-6268-4ba8-8cfb-8b55f473e31a" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b13efbeb-39f6-43c5-af66-1ab7f0b54aec
+
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
 - 상단에 위치한 이미지
-   - `2-4.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/7460502a-8dba-4c66-8452-f7d50821cae9" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/3da85f93-5f10-4a3d-92c7-4b6f33a195af
+
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
 - 눈 위쪽이 잘리도록 상단에 위치한 이미지
-   - `2-5.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/871b26ef-1930-4713-acca-8503f39e2ac0" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/ffe95a28-7e8c-4aa8-b9fc-11dc4f18d425
+
       -  `2-4.mp4` 까지 진행한 결과가 자연스러웠기에 극단적으로 상부로 이미지를 옮겨 다시 실행하였다. 눈동자의 움직임이 없는 것으로 보아 눈의 인식이 자연스레 이뤄지지 않았음을 알 수 있다. 입의 인식은 확실하게 이뤄졌으며 전체 윤곽의 움직임도 자연스럽다. 하지만 얼굴의 상부가 가장자리를 넘었을 때 이미지가 찌그러지는 모습을 보인다.
 
 ---
 ### 3. 대상체의 종류에 따라
 ---
 - 사람 얼굴
-   - `3-1.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/33577ea7-d8f1-4e18-bbc6-8cf10c185be8" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/363ec8e8-39c3-4df1-94fa-3f5384c4765f
+
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
 - 그림
-   - `3-2.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/2b7bf78f-3a34-4945-a8e5-12c49a7d9689" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/1e2fa076-2c2b-4994-80dc-c1e002c47675
+
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성은 사람 얼굴로 하였을 때 보다 부자연스럽지만 생성이 확인되었으며 전체 윤곽의 움직임도 자연스럽다.
       
 - 원숭이
-   - `3-3.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/fbd745c2-7824-4db5-af59-cd89d74ac334" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/74113210-744a-4b55-8df3-0f13c0ed1ea7
+
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
 
 - 라마
-   - `3-4.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/cab0006f-afc5-4038-a635-7bfec7e2274a" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/5de744bc-be51-46a8-9652-d7271e213209
+
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 확인되었으며 전체 윤곽의 움직임도 자연스럽다.
 
 - 강아지
-   - `3-5.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/90fe0587-7b2e-41cc-8595-36941204a197" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/3c31cf89-d3dc-4913-9600-87180be93bf6
+
       - 눈과 입의 경계선을 인식한 것처럼 보이나, 입의 경우 코의 밑 부분까지 조금 넓게 인식한 모습을 보임, 전체 윤곽의 움직임은 자연스럽다.
 
 - 가오리
-   - `3-6.mp4`
+   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/cd26576c-884d-4052-ab0c-8c1ba030b146" width="250px" height="250px"> 
+
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/fa530adf-d161-4397-9d50-e3334cd77904
+
       - 형태적 특성 탓에 눈의 인식을 판별하기는 어려우며, 입은 확실히 인식한 모습을 보인다.
 ---
 ### 4. 결론
