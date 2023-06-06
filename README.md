@@ -1,4 +1,4 @@
-# opensw23
+# opensw23-E1I3
 
 # Team Introduction
 
@@ -12,6 +12,8 @@
 # Topic Introduction
 
 ### - Topic : Facial expression deepfake 기술에 적절한 타켓 이미지 유형 분석
+- repo source link
+   https://github.com/AliaksandrSiarohin/first-order-model
 
 Facial Expression deepfake 기술이란, 타겟 이미지의 대상을 소스 비디오 대상의 표정을 묘사하도록 만드는 기술입니다.
 
@@ -112,6 +114,6 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b1030e12-4a91-484a-9368
 
 6. result 파일
 
-   만들어진 동영상은 argument를 따로 전달하지 않을 시 최상위 폴더에 `result.mp4` 파일이 생성되며, 명령어에 --result_video ./dataSet/result.mp4 를 추가하여 인자를 전달 시 생성될 파일위치 지정 및 이름 설정이 가능합니다. 
+   만들어진 동영상은 argument를 따로 전달하지 않을 시 최상위 폴더에 `result.mp4` 파일이 생성되며, 명령어에 --result_video ./dataSet/result.mp4 와 같이 추가 인자를 전달 시 생성될 파일위치 지정 및 이름 설정이 가능합니다. 
 
 # Presentation
