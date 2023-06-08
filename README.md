@@ -79,8 +79,9 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/2346e3b9-64f8-4626-af35
    - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/d4105f5d-d201-43bf-b03e-d63b6187208b
 
       - 눈을 배경의 일부로 인식한 것으로 보이고, 눈동자의 움직임이 없다. 입의 경우 경계선 인식 자체를 하지 못하였으며 턱을 입술의 일부로 인식한듯한 결과를 도출하였다. 전체 윤곽 또한 1-3보다 더 부자연스러운 모습을 보였다.
-      
-![Minimalist Beige Brand Guidelines Presentation](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/6cbad93a-866b-42ff-942e-18c67118bcb8)
+     
+![1](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/baea2341-bf1d-495b-bd29-e317bbf3254a)
+`점수 = (부위 별 점수 계 합산) *`
 
 ---
 ### 2. 대상체의 위치에 따라 적용을 했을 때
@@ -110,7 +111,8 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/2346e3b9-64f8-4626-af35
 
       -  `2-4.mp4` 까지 진행한 결과가 자연스러웠기에 극단적으로 상부로 이미지를 옮겨 다시 실행하였다. 눈동자의 움직임이 없는 것으로 보아 눈의 인식이 자연스레 이뤄지지 않았음을 알 수 있다. 입의 인식은 확실하게 이뤄졌으며 전체 윤곽의 움직임도 자연스럽다. 하지만 얼굴의 상부가 가장자리를 넘었을 때 이미지가 찌그러지는 모습을 보인다.
 
-![Minimalist Beige Brand Guidelines Presentation (1)](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/a22aae07-2c16-4832-8295-eff36da02e75)
+![2](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/9d19fecc-27c0-4106-9a46-bdd166db071b)
+`점수 = (부위 별 점수 계 합산) *`
 
 ---
 ### 3. 대상체의 종류에 따라
@@ -145,7 +147,8 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/2346e3b9-64f8-4626-af35
 
       - 형태적 특성 탓에 눈의 인식을 판별하기는 어려우며, 입은 확실히 인식한 모습을 보인다.
 
-![Minimalist Beige Brand Guidelines Presentation (2)](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/dbb47e26-39d6-4a3d-9726-9d3747b2246a)
+![3](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/33b1f0a3-0877-4b4a-8172-9362e11025f1)
+`점수 = (부위 별 점수 계 합산) *`
 
 ---
 ### 4. 결론
