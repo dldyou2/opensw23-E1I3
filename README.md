@@ -269,3 +269,4 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/660fa826-b9dd-497e-b552
    만들어진 동영상은 argument를 따로 전달하지 않을 시 최상위 폴더에 `result.mp4` 파일이 생성되며, 명령어에 --result_video dataSet/result.mp4 와 같이 추가 인자를 전달 시 생성될 파일위치 지정 및 이름 설정이 가능합니다.
 
 # Presentation
+https://www.youtube.com/watch?v=hZfCxkQZFkQ
