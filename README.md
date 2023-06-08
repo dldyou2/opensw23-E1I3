@@ -165,7 +165,7 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/660fa826-b9dd-497e-b552
 
 - 형태적 특성 탓에 눈의 인식을 판별하기는 어려우며, 입은 확실히 인식한 모습을 보인다.
 
-![3](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/33b1f0a3-0877-4b4a-8172-9362e11025f1)
+![3](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/751848c9-3075-49b3-98ad-a737575bebb8)
 `점수 = (부위 별 점수 계 합산) *`
 
 ---
