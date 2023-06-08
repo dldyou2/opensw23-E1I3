@@ -68,30 +68,22 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/7c8a9026-1d59-43a5-88b8
 
 
  - 원본보다 큰 이미지
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/37e9fe15-f9cd-45a3-a3ad-b53aa66f12d0" width="250px" height="250px"> 
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/6002394c-a992-4454-acb6-07118e02ee33
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/5a4b7a01-55bc-4d3b-b89c-5c3193c80c04
 
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
  - 원본과 크기가 같은 이미지
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/5f600dac-8d4b-4ccd-bcfd-9400a398f95a" width="250px" height="250px"> 
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/4b939934-cd9c-4c66-a4f6-e6c591ec5a26
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/5dfe8800-2b8f-4603-a65e-318081aade32
 
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
  - 원본보다 작은 이미지
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/c52b88f1-5eae-43d0-a4f7-94f721721db0" width="250px" height="250px"> 
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/e59cd6dc-81a0-4c0f-9cc6-63ce5ea34bc6
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/f83a715f-f0af-4446-ae61-57939f767931
 
       - 눈의 경계선은 인식하였으나, 눈동자가 자연스럽게 움직이지 않고 입의 경우 경계선 인식이 확실하게 이뤄지지 않았다. 치아 생성은 이뤄지지만 입이 확실하게 인식되지 못한 탓에 흐리게 생성된다. 전체 윤곽의 경우 돌려지는 느낌이 아닌 비율이 찌그러지는 느낌으로 영상이 생성됨.
       
  - 원본보다 매우 작은 이미지
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/581a47e4-0e76-443a-aea0-22c8da1de717" width="250px" height="250px"> 
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/0aa899a5-6700-44d1-ba0c-1956e2f4e186
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/d4105f5d-d201-43bf-b03e-d63b6187208b
 
       - 눈을 배경의 일부로 인식한 것으로 보이고, 눈동자의 움직임이 없다. 입의 경우 경계선 인식 자체를 하지 못하였으며 턱을 입술의 일부로 인식한듯한 결과를 도출하였다. 전체 윤곽 또한 1-3보다 더 부자연스러운 모습을 보였다.
       
