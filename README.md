@@ -266,8 +266,10 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/7c8a9026-1d59-43a5-88b8
    - --source_image : 소스 이미지 파일 주소
    - --driving_video : 소스 동영상 파일 주소
    - --checkpoint : pretrained data인 tar파일 주소
-   - --cpu : GPU 미사용시 호출하는 명령어 ( 아래 사진의 오류 발생 시 해결가능 ), GPU 사용 원할 시 (NVIDIA) `GPU.pdf` 파일   
+   - --cpu : GPU 미사용시 호출하는 명령어 ( 아래 사진의 오류 발생 시 해결가능 )
    ![ErrorImg](https://github.com/dldyou2/opensw23-E1I3/blob/f8717260b81905717e92017534bc65b13ce9780d/errorImg.png)
+   
+   **GPU 사용 원할 시 (NVIDIA) `GPU.pdf` 파일 참고**
    
 6. result 파일
 
