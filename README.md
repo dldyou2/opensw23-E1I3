@@ -88,8 +88,8 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/f83a715f-f0af-4446-ae61
 https://github.com/dldyou2/opensw23-E1I3/assets/60469410/d4105f5d-d201-43bf-b03e-d63b6187208b
 
 - 눈을 배경의 일부로 인식한 것으로 보이고, 눈동자의 움직임이 없다. 입의 경우 경계선 인식 자체를 하지 못하였으며 턱을 입술의 일부로 인식한듯한 결과를 도출하였다. 전체 윤곽 또한 1-3보다 더 부자연스러운 모습을 보였다.
-     
-![1](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/baea2341-bf1d-495b-bd29-e317bbf3254a)
+ 
+![1](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/08a2cf32-43b5-4392-9eae-bd44704c491d)
 `점수 = (부위 별 점수 계 합산) *`
 
 ---
@@ -127,7 +127,7 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/7bf62aaf-eb9a-4174-a470
 
 -  `2-4.mp4` 까지 진행한 결과가 자연스러웠기에 극단적으로 상부로 이미지를 옮겨 다시 실행하였다. 눈동자의 움직임이 없는 것으로 보아 눈의 인식이 자연스레 이뤄지지 않았음을 알 수 있다. 입의 인식은 확실하게 이뤄졌으며 전체 윤곽의 움직임도 자연스럽다. 하지만 얼굴의 상부가 가장자리를 넘었을 때 이미지가 찌그러지는 모습을 보인다.
 
-![2](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/9d19fecc-27c0-4106-9a46-bdd166db071b)
+![2](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/e2dabe14-fe33-4a4e-a627-14b676ef8c32)
 `점수 = (부위 별 점수 계 합산) *`
 
 ---
@@ -171,7 +171,7 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/660fa826-b9dd-497e-b552
 
 - 형태적 특성 탓에 눈의 인식을 판별하기는 어려우며, 입은 확실히 인식한 모습을 보인다.
 
-![3](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/751848c9-3075-49b3-98ad-a737575bebb8)
+![3](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/e2021b3a-d798-4059-ae02-f8ba55348378)
 `점수 = (부위 별 점수 계 합산) *`
 
 ---
