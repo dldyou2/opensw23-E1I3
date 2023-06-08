@@ -32,23 +32,16 @@
 
 **19개**의 데이터를 돌려보았습니다.
 
+> 데이터셋 구성 
+
 1. 대상체의 크기에 따라
 2. 대상체의 위치에 따라
 3. 대상체의 종류에 따라 
 
-데이터셋을 구성하였습니다. 
 
-아래의 결과는 해당 데이터 중 사람 -> 사람 / 원본 크기 / 원본 위치에 위치한 데이터로, 가장 자연스러운 출력을 보여준 것입니다.
+아래의 결과는 해당 데이터 중 원본 크기 / 원본 위치 / 사람 -> 사람 에 해당하는 데이터로 가장 자연스러운 출력을 보여준 것입니다.
 
-- input
-
-<img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/6db3f7fd-a596-4a32-9b65-49623754519b" width="250px" height="250px">
-
-https://github.com/dldyou2/opensw23-E1I3/assets/60469410/865d36b2-5d2d-4806-85b7-c597c53bb875
-
-- output
-
-https://github.com/dldyou2/opensw23-E1I3/assets/60469410/7c8a9026-1d59-43a5-88b8-876d1a4f93a6
+https://github.com/dldyou2/opensw23-E1I3/assets/60469410/2346e3b9-64f8-4626-af35-3e9a55f6f4d3
 
 # Analysis/Visualization
 
