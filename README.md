@@ -18,6 +18,8 @@
 
    Facial Expression deepfake 기술이란, 타겟 이미지의 대상이 소스 비디오 대상의 얼굴 표정을 묘사하도록 만드는 기술입니다.
    
+   ![image](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/a9da5d50-bf8e-4d10-b9b2-511b16c35543)
+   
 ### - 분석 기준
 
 1. 대상
