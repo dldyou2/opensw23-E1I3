@@ -248,7 +248,7 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/660fa826-b9dd-497e-b552
 
    terminal에서 아래의 명령어를 전달합니다.
    ```
-   python demo.py --config ./config/vox-256.yaml --driving_video dataSet/04.mp4 --source_image dataSet/01.png --checkpoint ./vox-cpk.pth.tar --relative --adapt_scale --cpu
+   python demo.py --config ./config/vox-256.yaml --driving_video dataSet/src.mp4 --source_image dataSet/1-3.png --checkpoint ./vox-cpk.pth.tar --relative --adapt_scale --cpu
    ```
 
    전달한 argument들의 의미는 아래와 같습니다. 사용 목적에 따라 변경하여 사용합니다.
@@ -264,6 +264,6 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/660fa826-b9dd-497e-b552
    
 6. result 파일
 
-   만들어진 동영상은 argument를 따로 전달하지 않을 시 최상위 폴더에 `result.mp4` 파일이 생성되며, 명령어에 --result_video ./dataSet/result.mp4 와 같이 추가 인자를 전달 시 생성될 파일위치 지정 및 이름 설정이 가능합니다.
+   만들어진 동영상은 argument를 따로 전달하지 않을 시 최상위 폴더에 `result.mp4` 파일이 생성되며, 명령어에 --result_video dataSet/result.mp4 와 같이 추가 인자를 전달 시 생성될 파일위치 지정 및 이름 설정이 가능합니다.
 
 # Presentation
