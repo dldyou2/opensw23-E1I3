@@ -205,6 +205,8 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/7c8a9026-1d59-43a5-88b8
 ---
 # Installation
 
+![image](https://github.com/dldyou2/opensw23-E1I3/assets/60469410/85c8ae8d-3fa2-482f-93c2-9de959cbf010)
+
 ### [테스트 환경]
 - OS : window
 - python 버전: python 3.9.16 / 3.10.9
