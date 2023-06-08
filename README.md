@@ -61,11 +61,12 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/7c8a9026-1d59-43a5-88b8
 ### 1. 대상체의 크기에 따라 적용을 했을 때
 ---
 - 이목구비만 보이게 확대한 이미지
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/cf84f91f-cef0-4b89-b6ea-c3a7a1c0727a" width="250px" height="250px">
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/459457f3-7fea-4c5a-aafd-6b8aa5558599
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/8424497a-dced-4509-af76-cf66fc29a88c
    
       - 눈의 일부만 인식한 것처럼 보이며, 입의 경우 입 전체가 아닌 일부를 인식하여 입술 전체가 아닌 일부만 움직이는 모습을 보였다. 이목구비만 확대한 사진이었기에 머리의 움직임이 아닌 얼굴 내부 윤곽의 움직임을 보여주었다.
+
+
+
  - 원본보다 큰 이미지
    - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/37e9fe15-f9cd-45a3-a3ad-b53aa66f12d0" width="250px" height="250px"> 
 
