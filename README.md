@@ -93,37 +93,27 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/7c8a9026-1d59-43a5-88b8
 ### 2. 대상체의 위치에 따라 적용을 했을 때
 ---
 - 중앙에 위치한 이미지
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/ae7b3e33-6a50-46d4-83d7-2a8123b225bf" width="250px" height="250px"> 
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/741bbc54-7897-402a-b125-1dedcfad6407
 
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/c04ab952-f1cd-4f89-9236-5a7674c59155
-   
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
 - 좌측에 위치한 이미지
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/daa0eb42-0ca3-43b9-9cb6-31e7f01304c1" width="250px" height="250px"> 
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/9e87eccd-6b88-4e6e-baf2-cfb763309c4d
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/a457e0e9-1dfa-40a3-aec1-d6616944f92c
 
       - 눈과 입의 경계선을 확실하게 인식하나, 공간의 부족으로 왼쪽으로 고개가 이동 시 가장자리의 이미지가 찌그러지는 모습을 보임, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
 - 우측에 위치한 이미지
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b299c67d-6268-4ba8-8cfb-8b55f473e31a" width="250px" height="250px"> 
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/b13efbeb-39f6-43c5-af66-1ab7f0b54aec
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/f6867d32-e93f-41cd-924e-fc6a5c0ea30d
 
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
 - 상단에 위치한 이미지
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/7460502a-8dba-4c66-8452-f7d50821cae9" width="250px" height="250px"> 
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/3da85f93-5f10-4a3d-92c7-4b6f33a195af
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/9671556b-f348-4773-8a5c-0fd381620cd0
 
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
 - 눈 위쪽이 잘리도록 상단에 위치한 이미지
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/871b26ef-1930-4713-acca-8503f39e2ac0" width="250px" height="250px"> 
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/ffe95a28-7e8c-4aa8-b9fc-11dc4f18d425
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/7bf62aaf-eb9a-4174-a470-e060a204fc73
 
       -  `2-4.mp4` 까지 진행한 결과가 자연스러웠기에 극단적으로 상부로 이미지를 옮겨 다시 실행하였다. 눈동자의 움직임이 없는 것으로 보아 눈의 인식이 자연스레 이뤄지지 않았음을 알 수 있다. 입의 인식은 확실하게 이뤄졌으며 전체 윤곽의 움직임도 자연스럽다. 하지만 얼굴의 상부가 가장자리를 넘었을 때 이미지가 찌그러지는 모습을 보인다.
 
@@ -133,44 +123,32 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/7c8a9026-1d59-43a5-88b8
 ### 3. 대상체의 종류에 따라
 ---
 - 사람 얼굴
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/33577ea7-d8f1-4e18-bbc6-8cf10c185be8" width="250px" height="250px"> 
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/363ec8e8-39c3-4df1-94fa-3f5384c4765f
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/c4478c65-57d5-4a4b-ae4b-5ebdf66e8753
 
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
       
 - 그림
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/2b7bf78f-3a34-4945-a8e5-12c49a7d9689" width="250px" height="250px"> 
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/1e2fa076-2c2b-4994-80dc-c1e002c47675
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/d17319f6-ac11-4863-9b62-3d219d57491f
 
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성은 사람 얼굴로 하였을 때 보다 부자연스럽지만 생성이 확인되었으며 전체 윤곽의 움직임도 자연스럽다.
       
 - 원숭이
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/fbd745c2-7824-4db5-af59-cd89d74ac334" width="250px" height="250px"> 
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/504e1497-e177-417a-ac87-19f63f94ce90
 
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/74113210-744a-4b55-8df3-0f13c0ed1ea7
-
-      - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
+     - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 자연스러우며 전체 윤곽의 움직임도 자연스럽다.
 
 - 라마
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/cab0006f-afc5-4038-a635-7bfec7e2274a" width="250px" height="250px"> 
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/5de744bc-be51-46a8-9652-d7271e213209
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/f705c01f-400e-41b9-a586-8e182d252bcf
 
       - 눈과 입의 경계선을 확실하게 인식, 치아 생성도 확인되었으며 전체 윤곽의 움직임도 자연스럽다.
 
 - 강아지
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/90fe0587-7b2e-41cc-8595-36941204a197" width="250px" height="250px"> 
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/3c31cf89-d3dc-4913-9600-87180be93bf6
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/c489916d-c145-4e0d-8a2c-9e71b22a4f70
 
       - 눈과 입의 경계선을 인식한 것처럼 보이나, 입의 경우 코의 밑 부분까지 조금 넓게 인식한 모습을 보임, 전체 윤곽의 움직임은 자연스럽다.
 
 - 가오리
-   - <img src="https://github.com/dldyou2/opensw23-E1I3/assets/60469410/cd26576c-884d-4052-ab0c-8c1ba030b146" width="250px" height="250px"> 
-
-   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/fa530adf-d161-4397-9d50-e3334cd77904
+   - https://github.com/dldyou2/opensw23-E1I3/assets/60469410/660fa826-b9dd-497e-b552-815ffae2ccb4
 
       - 형태적 특성 탓에 눈의 인식을 판별하기는 어려우며, 입은 확실히 인식한 모습을 보인다.
 
