@@ -55,6 +55,8 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/2346e3b9-64f8-4626-af35
 
 ### 1. 대상체의 크기에 따라 적용을 했을 때
 ---
+https://github.com/dldyou2/opensw23-E1I3/assets/60469410/8b3f35b4-ebf8-4515-907b-54ab72aff88a
+
 > 이목구비만 보이게 확대한 이미지
 
 https://github.com/dldyou2/opensw23-E1I3/assets/60469410/8424497a-dced-4509-af76-cf66fc29a88c
@@ -93,6 +95,8 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/d4105f5d-d201-43bf-b03e
 ---
 ### 2. 대상체의 위치에 따라 적용을 했을 때
 ---
+https://github.com/dldyou2/opensw23-E1I3/assets/60469410/f5d76561-810a-44df-9c8c-e392e96520a9
+
 > 중앙에 위치한 이미지
 
 https://github.com/dldyou2/opensw23-E1I3/assets/60469410/741bbc54-7897-402a-b125-1dedcfad6407
@@ -129,6 +133,8 @@ https://github.com/dldyou2/opensw23-E1I3/assets/60469410/7bf62aaf-eb9a-4174-a470
 ---
 ### 3. 대상체의 종류에 따라
 ---
+https://github.com/dldyou2/opensw23-E1I3/assets/60469410/6c121304-5418-4cc3-8dd8-8e85b49aa56e
+
 > 사람 얼굴
 
 https://github.com/dldyou2/opensw23-E1I3/assets/60469410/c4478c65-57d5-4a4b-ae4b-5ebdf66e8753
